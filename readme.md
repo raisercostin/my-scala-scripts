@@ -8,3 +8,6 @@
 # How to execute
 - `sbts` - enter in console mode where you can use the defined commands
 - `sbts backup z:\1-personal-backups-auto\2015-04-27--archived--synchting-s4\` - to execute the backup command.
+
+- incorporate
+-- wmic /output:C:\InstallList.txt product get name
